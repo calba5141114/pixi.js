@@ -1,0 +1,12 @@
+{
+  "name": "pixi.js",
+  "version": "1.0.0",
+  "description": "An App to test out pixi js",
+  "main": "index.js",
+  "repository": "https://github.com/calba5141114/pixi.js.git",
+  "author": "Carlos Angel Alba ",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.8.0"
+  }
+}
